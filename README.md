@@ -1,4 +1,4 @@
-# Cloud-Projects
+# Cloud Projects
 ###
 ###
 Azure AVD - VM:
