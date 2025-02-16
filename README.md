@@ -1,8 +1,6 @@
 # Cloud Projects
 ###
 ###
-Azure AVD - VM:
-
 ###
 Setting up Kisok Mode on Samsung Tablets in Intune:
 ###
